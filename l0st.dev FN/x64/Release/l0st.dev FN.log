@@ -1,0 +1,34 @@
+﻿  core.cpp
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\stdafx.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\core.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  dllmain.cpp
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\stdafx.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\dllmain.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  menu.cpp
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\stdafx.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\menu.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\menu.cpp(66,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\menu.cpp(68,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\menu.cpp(69,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\menu.cpp(207,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\menu.cpp(364,10): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'std::vector<PVOID,std::allocator<PVOID>>'
+  offsets.cpp
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\stdafx.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\offsets.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  settings.cpp
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\stdafx.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\settings.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Util.cpp
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\stdafx.h(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\ayy\Desktop\Gay\l0st.dev FN\Util.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+     Creating library C:\Users\ayy\Desktop\Gay\x64\Release\Fortnite.lib and object C:\Users\ayy\Desktop\Gay\x64\Release\Fortnite.exp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1068 of 1070 functions (99.8%) were compiled, the rest were copied from previous compilation.
+    17 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  l0st.dev FN.vcxproj -> C:\Users\ayy\Desktop\Gay\x64\Release\Fortnite.dll
